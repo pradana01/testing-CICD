@@ -16,5 +16,6 @@ function calculator(n1, n2, operator) {
     }
 }
 
+// add coment
 // console.log(calculator(5,5,"%"))
 module.exports = calculator;
